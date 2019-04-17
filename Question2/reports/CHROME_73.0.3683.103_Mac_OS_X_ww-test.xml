@@ -5,9 +5,9 @@
 
   <testsuite name="ww-test"
     errors="0" failures="0" hostname="" id="" package="ww-test" skipped="0"
-    tests="1" time="7.347" timestamp="">
+    tests="1" time="10.13" timestamp="">
   
-    <testcase name="WW Test" classname="ww-test" time="7.347" assertions="10">
+    <testcase name="WW Test" classname="ww-test" time="10.13" assertions="10">
 
     
 
