@@ -1,0 +1,21 @@
+{
+  "name": "test-suite",
+  "version": "1.0.0",
+  "description": "Test Suite using Nightwatch.js",
+  "scripts": {
+    "test": "nightwatch tests/ww-test.js --config nightwatch.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Ted Wang",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chromedriver": "^2.38.1",
+    "nightwatch": "^1.0.18",
+    "selenium-download": "^2.0.12",
+    "selenium-server": "^3.11.0"
+  },
+  "devDependencies": {}
+}
